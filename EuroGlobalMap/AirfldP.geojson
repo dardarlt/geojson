@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "FCsubtype": 1, "inspireId": "_EG.EGM.AirfldP:d7b87865-c3f2-44f9-b3ab-26b6059c96", "beginLifes": "2015\/10\/26", "F_CODE": "GB005", "ICC": "DE", "IAT": "TXL", "IKO": "EDDT", "NAMN1": "Berlin-Tegel", "NAMN2": "N_A", "NAMA1": "Berlin-Tegel", "NAMA2": "N_A", "NLN1": "GER", "NLN2": "N_A", "USE": 23, "ZV3": 37 }, "geometry": { "type": "Point", "coordinates": [ 13.290163499999778, 52.556162999999827 ] } },
+{ "type": "Feature", "properties": { "FCsubtype": 1, "inspireId": "_EG.EGM.AirfldP:4666589c-f5e2-49e0-bddd-4c49008203", "beginLifes": "2015\/10\/26", "F_CODE": "GB005", "ICC": "DE", "IAT": "XFW", "IKO": "EDHI", "NAMN1": "Hamburg-Finkenwerder", "NAMN2": "N_A", "NAMA1": "Hamburg-Finkenwerder", "NAMA2": "N_A", "NLN1": "GER", "NLN2": "N_A", "USE": 113, "ZV3": 6 }, "geometry": { "type": "Point", "coordinates": [ 9.83712399999979, 53.540621499999844 ] } },
+{ "type": "Feature", "properties": { "FCsubtype": 1, "inspireId": "_EG.EGM.AirfldP:f17e2cd9-9fe6-4758-8f65-e122e4ad79", "beginLifes": "2015\/10\/26", "F_CODE": "GB005", "ICC": "DE", "IAT": "NRN", "IKO": "EDLV", "NAMN1": "Niederrhein", "NAMN2": "N_A", "NAMA1": "Niederrhein", "NAMA2": "N_A", "NLN1": "GER", "NLN2": "N_A", "USE": 4, "ZV3": 32 }, "geometry": { "type": "Point", "coordinates": [ 6.142762999999803, 51.600322999999833 ] } },
+{ "type": "Feature", "properties": { "FCsubtype": 1, "inspireId": "_EG.EGM.AirfldP:8f84592e-a593-481b-8c4b-73ce9e7db2", "beginLifes": "2015\/10\/26", "F_CODE": "GB005", "ICC": "DE", "IAT": "SGE", "IKO": "EDGS", "NAMN1": "Siegerland", "NAMN2": "N_A", "NAMA1": "Siegerland", "NAMA2": "N_A", "NLN1": "GER", "NLN2": "N_A", "USE": 4, "ZV3": 599 }, "geometry": { "type": "Point", "coordinates": [ 8.077794999999782, 50.708216999999848 ] } },
+{ "type": "Feature", "properties": { "FCsubtype": 1, "inspireId": "_EG.EGM.AirfldP:0990787c-1bc3-47d6-a580-1cd07f472c", "beginLifes": "2015\/10\/26", "F_CODE": "GB005", "ICC": "DE", "IAT": "HAJ", "IKO": "EDDV", "NAMN1": "Hannover", "NAMN2": "N_A", "NAMA1": "Hannover", "NAMA2": "N_A", "NLN1": "GER", "NLN2": "N_A", "USE": 23, "ZV3": 56 }, "geometry": { "type": "Point", "coordinates": [ 9.691392999999778, 52.459035499999828 ] } }
+]
+}
